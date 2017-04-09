@@ -11,6 +11,7 @@ To distinguish dispersion trading, it is simply a hedged strategy which takes ad
 We have to note that this trade would be successful only when the delta exposure is close to zero. Thus the dispersion strategy is hedged against large market movements.
 
 #Below is the progression of actions to be taken for a successful Dispersion Trade
+
 •	Calculate the Dirty Correlation (ρ):
 •	Generate Signals when Dirty Correlation crosses threshold/reaches its extreme 
 •	Buy/Sell Index and individual securities as per the logic.
